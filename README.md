@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manas Ranjan</h1>
-<h3 align="center">💻 I enjoy working with Python, JavaScript, and C++, and I have strong experience in frontend development and DevOps tools.</h3>
+<h3 align="center">💻 I enjoy working with Python, JavaScript, and C++, and I have strong experience in Backend development and DevOps tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasranjan1&label=Profile%20views&color=0e75b6&style=flat" alt="manasranjan1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasranjan1" alt="manasranjan1" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps and Backend**
 
 - 👨‍💻 All of my projects are available at [https://manasranjan1.github.io/Portfolio/](https://manasranjan1.github.io/Portfolio/)
 
