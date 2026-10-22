@@ -1,41 +1,118 @@
-<h1 align="center">Hi 👋, I'm Manas Ranjan</h1>
-<h3 align="center">💻 I enjoy working with Python, JavaScript, and C++, and I have strong experience in Backend development and DevOps tools.</h3>
+<h1 align="center">Hi, I'm Manas Ranjan 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasranjan1&label=Profile%20views&color=0e75b6&style=flat" alt="manasranjan1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasranjan1" alt="manasranjan1" /></a> </p>
-
-- 🌱 I’m currently learning **DevOps and Backend**
-
-- 👨‍💻 All of my projects are available at [https://manasranjan1.github.io/Portfolio/](https://manasranjan1.github.io/Portfolio/)
-
-- 💬 Ask me about **Frontend and DevOps**
-
-- 📫 How to reach me **manasranjan9852@gmail.com**
-
-- ⚡ Fun fact **Just a guy living life like 8Gb of RAM running 58 chrome tabs worth of dreams.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/manas_ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="manas_ranjan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manasranjan9852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasranjan9852" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manasranjan9852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manasranjan9852" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/manasran9gw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manasran9gw9" height="30" width="40" /></a>
-<a href="https://discord.gg/lonewolf048761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lonewolf048761" height="30" width="40" /></a>
+<p align="center">
+  Backend-focused B.Tech CSE student (Class of 2027) building reliable APIs and distributed-systems components.<br/>
+  📍 Jaipur, Rajasthan, India
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/manasranjan9852"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:manasranjan9852@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/manasranjan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manasranjan" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasranjan1&show_icons=true&locale=en&layout=compact" alt="manasranjan1" /></p>
+## 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasranjan1&show_icons=true&locale=en" alt="manasranjan1" /></p>
+- 🎓 B.Tech in Computer Science & Engineering at **Jaipur National University** (CGPA 8.0/10, expected 2027)
+- ⚙️ I build **backend systems** with Node.js, Express.js, MongoDB and Redis, with a focus on API design, authentication, concurrency and reliability
+- 🧪 I test what I build with **Jest** and **Supertest** integration tests, and ship it in **Docker** containers
+- 🏆 Winner of **2 hackathons** and **1 ideathon**
+- 📫 Reach me at **manasranjan9852@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasranjan1&" alt="manasranjan1" /></p>
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT_&_RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square)
+
+**Databases & Caching**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Cloud, DevOps & Testing**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 Mini Stripe — Payment Infrastructure API
+`Node.js` `Express.js` `MongoDB` `Redis` `JWT` `Docker` `Jest`
+
+- Payment API covering creation, confirmation, state management, and refunds
+- Redis-backed **idempotency** and **distributed locking** (request fingerprinting, TTL-based locks, Lua-based ownership-safe release) to handle duplicate and concurrent requests
+- **JWT authentication and RBAC** with refresh-token rotation, Redis-backed sessions, and merchant/admin authorization
+- Dockerized with Docker Compose, deployed on Render with MongoDB Atlas and Redis, and covered by Jest/Supertest integration tests with interactive API docs
+
+🔗 [Repository](https://github.com/YOUR-GITHUB-USERNAME/YOUR-MINI-STRIPE-REPO)
+
+### 🔗 URL Shortener & Analytics Platform
+`Node.js` `Express.js` `MongoDB` `Redis` `BullMQ` `JWT` `Docker`
+
+- JWT authentication, custom aliases, URL expiration, CRUD APIs, validation, and centralized error handling
+- Redis **caching and rate limiting** for high-frequency redirects
+- Asynchronous **click analytics pipeline** (BullMQ/Redis) capturing timestamps, referrers, and device/browser data without blocking redirects
+- Reliability patterns: idempotent operations, retry handling, database indexing, structured logging, and graceful failure handling
+
+🔗 [Repository](https://github.com/YOUR-GITHUB-USERNAME/YOUR-URL-SHORTENER-REPO)
+
+### 📁 File Upload & Processing Service
+`Node.js` `Express.js` `AWS S3` `Amazon SQS` `MongoDB` `Sharp` `Docker`
+
+- Scalable upload service using **AWS S3 presigned URLs** for secure, direct-to-cloud uploads
+- Asynchronous processing with **Amazon SQS** and dedicated workers, with retry handling and dead-letter queues
+- REST APIs for file metadata, processing status, and downloads, with MongoDB-backed tracking and image/CSV processing
+- Containerized API and workers with Docker, JWT authentication, file validation, and least-privilege AWS IAM permissions
+
+🔗 [Repository](https://github.com/YOUR-GITHUB-USERNAME/YOUR-FILE-UPLOAD-REPO)
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Year |
+|------|--------------|------|
+| AI Automation & Solutions Intern | IBM SkillsBuild (with CSRBOX) | 2026 |
+| Data Analyst Intern | IBM SkillsBuild (with CSRBOX) | 2024 |
+
+---
+
+## 🏅 Achievements
+
+- 🥇 Winner, 2 Hackathons: built functional prototypes under time constraints in teams
+- 🥇 Winner, 1 Ideathon: presented an innovative, well-structured solution to a real-world problem
+- 🌐 Campus Ambassador, GeeksforGeeks: drove participation in technical events and contests
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manasranjan1&show_icons=true&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasranjan1&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
