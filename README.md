@@ -69,7 +69,7 @@
 - **JWT authentication and RBAC** with refresh-token rotation, Redis-backed sessions, and merchant/admin authorization
 - Dockerized with Docker Compose, deployed on Render with MongoDB Atlas and Redis, and covered by Jest/Supertest integration tests with interactive API docs
 
-🔗 [Repository](https://github.com/YOUR-GITHUB-USERNAME/YOUR-MINI-STRIPE-REPO)
+🔗 [Repository](https://github.com/Manasranjan1/ministripe)
 
 ### 🔗 URL Shortener & Analytics Platform
 `Node.js` `Express.js` `MongoDB` `Redis` `BullMQ` `JWT` `Docker`
@@ -79,7 +79,7 @@
 - Asynchronous **click analytics pipeline** (BullMQ/Redis) capturing timestamps, referrers, and device/browser data without blocking redirects
 - Reliability patterns: idempotent operations, retry handling, database indexing, structured logging, and graceful failure handling
 
-🔗 [Repository](https://github.com/YOUR-GITHUB-USERNAME/YOUR-URL-SHORTENER-REPO)
+🔗 [Repository](https://github.com/Manasranjan1/url-shortener-and-analytics)
 
 ### 📁 File Upload & Processing Service
 `Node.js` `Express.js` `AWS S3` `Amazon SQS` `MongoDB` `Sharp` `Docker`
@@ -89,7 +89,7 @@
 - REST APIs for file metadata, processing status, and downloads, with MongoDB-backed tracking and image/CSV processing
 - Containerized API and workers with Docker, JWT authentication, file validation, and least-privilege AWS IAM permissions
 
-🔗 [Repository](https://github.com/YOUR-GITHUB-USERNAME/YOUR-FILE-UPLOAD-REPO)
+🔗 [Repository](https://github.com/Manasranjan1/file-upload-and-processing-service)
 
 ---
 
