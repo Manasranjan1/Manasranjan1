@@ -98,6 +98,7 @@
 | Role | Organization | Year |
 |------|--------------|------|
 | AI Automation & Solutions Intern | IBM SkillsBuild (with CSRBOX) | 2026 |
+|Campus Ambassador | GeekforGeeks | 2025 |
 | Data Analyst Intern | IBM SkillsBuild (with CSRBOX) | 2024 |
 
 ---
