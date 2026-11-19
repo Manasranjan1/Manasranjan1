@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Manas Ranjan 👋</h1>
 
 <p align="center">
-  Backend-focused B.Tech CSE student (Class of 2027) building reliable APIs and distributed-systems components.<br/>
-  📍 Jaipur, Rajasthan, India
+  Backend & AI enthusiast building reliable APIs, intelligent applications, and practical AI-powered solutions.<br/>
+  🎓 B.Tech CSE '27 | 📍 Jaipur, Rajasthan, India
 </p>
 
 <p align="center">
@@ -12,13 +12,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering at **Jaipur National University** (CGPA 8.0/10, expected 2027)
-- ⚙️ I build **backend systems** with Node.js, Express.js, MongoDB and Redis, with a focus on API design, authentication, concurrency and reliability
-- 🧪 I test what I build with **Jest** and **Supertest** integration tests, and ship it in **Docker** containers
-- 🏆 Winner of **2 hackathons** and **1 ideathon**
-- 📫 Reach me at **manasranjan9852@gmail.com**
+Hey! I'm **Manas**, a Computer Science student passionate about building backend systems and practical AI applications.
+
+- ⚙️ Interested in **Backend Engineering**, APIs, system design and scalable applications.
+- 🤖 Exploring **Generative AI**, RAG, LLMs, LangChain.js and LangGraph.js.
+- 🛠️ Working with **Node.js, Express.js, PostgreSQL, MongoDB, Redis and Docker**.
+- 🏆 Winner of **2 Hackathons and 1 Ideathon**.
+- 📫 Reach me at **manasranjan9852@gmail.com**.
+
+*Always learning, building and experimenting.*
 
 ---
 
@@ -59,6 +63,7 @@
 
 
 **AI & Generative AI**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
