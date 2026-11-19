@@ -57,9 +57,42 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+
+**AI & Generative AI**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat-square&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-00897B?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-6A5ACD?style=flat-square&logoColor=white)
+
+
 ---
 
 ## 🚀 Featured Projects
+
+### 📁 AI-Powered Support Ticket Intelligence
+`Node.js` `Express.js` `LangChain.js` `LangGraph.js` `Google Gemini` `PostgreSQL`
+
+- Developed an AI-powered support ticket system using **LangChain.js and Gemini** to automate ticket classification, sentiment analysis, priority detection, and issue summarization.
+- Designed stateful AI workflows using **LangGraph.js**, implementing conditional routing to automatically assign tickets to appropriate support teams.
+- Implemented **structured LLM outputs** and context-aware response generation to provide relevant customer support suggestions.
+- Integrated **human-in-the-loop approval** to review, edit, and approve AI-generated responses before submission, with PostgreSQL-backed ticket tracking.
+
+🔗 [github.com/Manasranjan1/support-ticket-ai](https://github.com/Manasranjan1/support-ticket-ai)
+
+### 📄 Async Document Intelligence – RAG API
+`Node.js` `Express.js` `LangChain.js` `Google Gemini` `PostgreSQL` `pgvector`
+
+- Developed a document question-answering API using **Retrieval-Augmented Generation (RAG)**, enabling users to upload PDFs and retrieve context-aware answers.
+- Implemented document ingestion, text chunking, and embedding generation using **LangChain.js and Gemini**, with vector storage and semantic search using PostgreSQL (pgvector).
+- Built a retrieval pipeline to generate context-grounded responses with **source citations**, improving answer traceability and reducing reliance on generic LLM knowledge.
+- Designed a **configurable AI provider architecture** to support switching between Gemini and OpenAI through environment-based configuration.
+
+🔗 [github.com/Manasranjan1/RAG-API](https://github.com/Manasranjan1/RAG-API) | 🚀 [Live Demo](https://rag-api-c7ua.onrender.com/)
 
 ### 💳 Mini Stripe — Payment Infrastructure API
 `Node.js` `Express.js` `MongoDB` `Redis` `JWT` `Docker` `Jest`
@@ -69,7 +102,7 @@
 - **JWT authentication and RBAC** with refresh-token rotation, Redis-backed sessions, and merchant/admin authorization
 - Dockerized with Docker Compose, deployed on Render with MongoDB Atlas and Redis, and covered by Jest/Supertest integration tests with interactive API docs
 
-🔗 [Repository](https://github.com/Manasranjan1/ministripe)
+🔗 [github.com/Manasranjan1/ministripe](https://github.com/Manasranjan1/ministripe) | 🚀 [Live Demo](https://ministripe.onrender.com)
 
 ### 🔗 URL Shortener & Analytics Platform
 `Node.js` `Express.js` `MongoDB` `Redis` `BullMQ` `JWT` `Docker`
@@ -79,17 +112,7 @@
 - Asynchronous **click analytics pipeline** (BullMQ/Redis) capturing timestamps, referrers, and device/browser data without blocking redirects
 - Reliability patterns: idempotent operations, retry handling, database indexing, structured logging, and graceful failure handling
 
-🔗 [Repository](https://github.com/Manasranjan1/url-shortener-and-analytics)
-
-### 📁 File Upload & Processing Service
-`Node.js` `Express.js` `AWS S3` `Amazon SQS` `MongoDB` `Sharp` `Docker`
-
-- Scalable upload service using **AWS S3 presigned URLs** for secure, direct-to-cloud uploads
-- Asynchronous processing with **Amazon SQS** and dedicated workers, with retry handling and dead-letter queues
-- REST APIs for file metadata, processing status, and downloads, with MongoDB-backed tracking and image/CSV processing
-- Containerized API and workers with Docker, JWT authentication, file validation, and least-privilege AWS IAM permissions
-
-🔗 [Repository](https://github.com/Manasranjan1/file-upload-and-processing-service)
+🔗 [github.com/Manasranjan1/url-shortener-and-analytics](https://github.com/Manasranjan1/url-shortener-and-analytics)
 
 ---
 
